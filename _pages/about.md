@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <div style="text-align: justify ">
-Ingeniero en Sistemas Computacionales con un año de experiencia en proyectos utilizando 
-tecnologías Node.js, Javascript, Bootstrap, SQL, MYSQL y Redis. 
+Ingeniero en Sistemas Computacionales con dos años de experiencia en proyectos utilizando 
+tecnologías Node.js, Javascript, Bootstrap, MYSQL, MSSQL y Redis. 
 He colaborado en el desarrollo de sistemas que permiten una gestión de recursos, 
 optimizando el rendimiento y la experiencia del usuario. Me adapto rápidamente a los 
 cambios y disfruto aprendiendo nuevas tecnologías para mantenerme actualizado en el 
@@ -20,7 +20,7 @@ cambios y disfruto aprendiendo nuevas tecnologías para mantenerme actualizado e
 
 * NodeJS
 * JavaScript
-* SQL  
+* MYSQL  
 * MSSQL  
 * Git
 * CSS  
