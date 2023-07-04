@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="text-align: justify ">
 Ingeniero en Sistemas Computacionales con dos años de experiencia en proyectos utilizando 
-tecnologías Node.js, Javascript, Bootstrap, MYSQL, MSSQL y Redis. 
+tecnologías como .NET Core, Angular, Node.js, Javascript, Bootstrap, MYSQL y Microsoft SQL Server. 
 He colaborado en el desarrollo de sistemas que permiten una gestión de recursos, 
 optimizando el rendimiento y la experiencia del usuario. Me adapto rápidamente a los 
 cambios y disfruto aprendiendo nuevas tecnologías para mantenerme actualizado en el 
@@ -17,11 +17,12 @@ cambios y disfruto aprendiendo nuevas tecnologías para mantenerme actualizado e
 
 {% capture notice-2 %}
 #### Habilidades
-
+* .NET Core
+* Angular
 * NodeJS
 * JavaScript
 * MYSQL  
-* MSSQL  
+* Microsoft SQL Server  
 * Git
 * CSS  
 * Bootstrap  
