@@ -110,7 +110,7 @@ author:
   name             : "José Arellano"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Desarrollador Web."
-  location         : "S.L.P. MX"
+  location         : "CDMX"
   email            : "jose@josearellano.dev"
   links:
     - label: "Email"
